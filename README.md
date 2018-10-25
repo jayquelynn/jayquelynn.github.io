@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Profile
 
+Hello, my name is Jacqueline Turner! I am originally from Kansas City, Missouri. 
 You can use the [editor on GitHub](https://github.com/jayquelynn/jayquelynn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
