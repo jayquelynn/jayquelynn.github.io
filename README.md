@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile
+## Welcome!
 
 Hello, my name is Jacqueline Turner! I am originally from Kansas City, Missouri. 
 You can use the [editor on GitHub](https://github.com/jayquelynn/jayquelynn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
